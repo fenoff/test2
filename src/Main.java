@@ -11,6 +11,7 @@ public class Main {
             case '+':
                 result = operand1 + operand2;
                 break;
+                123123123
             case '-':
                 result = operand1 - operand2;
                 break;
